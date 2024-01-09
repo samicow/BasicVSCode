@@ -1,3 +1,0 @@
-D:/samico/134-231129-modem/workspace/modemv8/Debug/CMakeFiles/maintest.dir
-D:/samico/134-231129-modem/workspace/modemv8/Debug/CMakeFiles/edit_cache.dir
-D:/samico/134-231129-modem/workspace/modemv8/Debug/CMakeFiles/rebuild_cache.dir
