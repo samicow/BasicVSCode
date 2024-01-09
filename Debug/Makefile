@@ -129,53 +129,53 @@ maintest/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/build
 .PHONY : maintest/fast
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+src/main.obj: src/main.cpp.obj
+.PHONY : src/main.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+src/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/src/main.cpp.obj
+.PHONY : src/main.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
-teste.obj: teste.cpp.obj
-.PHONY : teste.obj
+src/teste.obj: src/teste.cpp.obj
+.PHONY : src/teste.obj
 
 # target to build an object file
-teste.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/teste.cpp.obj
-.PHONY : teste.cpp.obj
+src/teste.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/src/teste.cpp.obj
+.PHONY : src/teste.cpp.obj
 
-teste.i: teste.cpp.i
-.PHONY : teste.i
+src/teste.i: src/teste.cpp.i
+.PHONY : src/teste.i
 
 # target to preprocess a source file
-teste.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/teste.cpp.i
-.PHONY : teste.cpp.i
+src/teste.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/src/teste.cpp.i
+.PHONY : src/teste.cpp.i
 
-teste.s: teste.cpp.s
-.PHONY : teste.s
+src/teste.s: src/teste.cpp.s
+.PHONY : src/teste.s
 
 # target to generate assembly for a file
-teste.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/teste.cpp.s
-.PHONY : teste.cpp.s
+src/teste.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/maintest.dir/build.make CMakeFiles/maintest.dir/src/teste.cpp.s
+.PHONY : src/teste.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... maintest"
-	@echo "... main.obj"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... teste.obj"
-	@echo "... teste.i"
-	@echo "... teste.s"
+	@echo "... src/main.obj"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/teste.obj"
+	@echo "... src/teste.i"
+	@echo "... src/teste.s"
 .PHONY : help
 
 

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/samico/134-231129-modem/workspace/modemv8/main.cpp" "CMakeFiles/maintest.dir/main.cpp.obj" "gcc" "CMakeFiles/maintest.dir/main.cpp.obj.d"
-  "D:/samico/134-231129-modem/workspace/modemv8/teste.cpp" "CMakeFiles/maintest.dir/teste.cpp.obj" "gcc" "CMakeFiles/maintest.dir/teste.cpp.obj.d"
+  "D:/samico/134-231129-modem/workspace/modemv8/src/main.cpp" "CMakeFiles/maintest.dir/src/main.cpp.obj" "gcc" "CMakeFiles/maintest.dir/src/main.cpp.obj.d"
+  "D:/samico/134-231129-modem/workspace/modemv8/src/teste.cpp" "CMakeFiles/maintest.dir/src/teste.cpp.obj" "gcc" "CMakeFiles/maintest.dir/src/teste.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

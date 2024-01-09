@@ -69,46 +69,46 @@ include CMakeFiles/maintest.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/maintest.dir/flags.make
 
-CMakeFiles/maintest.dir/main.cpp.obj: CMakeFiles/maintest.dir/flags.make
-CMakeFiles/maintest.dir/main.cpp.obj: CMakeFiles/maintest.dir/includes_CXX.rsp
-CMakeFiles/maintest.dir/main.cpp.obj: D:/samico/134-231129-modem/workspace/modemv8/main.cpp
-CMakeFiles/maintest.dir/main.cpp.obj: CMakeFiles/maintest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:/samico/134-231129-modem/workspace/modemv8/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/maintest.dir/main.cpp.obj"
-	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/maintest.dir/main.cpp.obj -MF CMakeFiles/maintest.dir/main.cpp.obj.d -o CMakeFiles/maintest.dir/main.cpp.obj -c D:/samico/134-231129-modem/workspace/modemv8/main.cpp
+CMakeFiles/maintest.dir/src/main.cpp.obj: CMakeFiles/maintest.dir/flags.make
+CMakeFiles/maintest.dir/src/main.cpp.obj: CMakeFiles/maintest.dir/includes_CXX.rsp
+CMakeFiles/maintest.dir/src/main.cpp.obj: D:/samico/134-231129-modem/workspace/modemv8/src/main.cpp
+CMakeFiles/maintest.dir/src/main.cpp.obj: CMakeFiles/maintest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:/samico/134-231129-modem/workspace/modemv8/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/maintest.dir/src/main.cpp.obj"
+	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/maintest.dir/src/main.cpp.obj -MF CMakeFiles/maintest.dir/src/main.cpp.obj.d -o CMakeFiles/maintest.dir/src/main.cpp.obj -c D:/samico/134-231129-modem/workspace/modemv8/src/main.cpp
 
-CMakeFiles/maintest.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/maintest.dir/main.cpp.i"
-	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:/samico/134-231129-modem/workspace/modemv8/main.cpp > CMakeFiles/maintest.dir/main.cpp.i
+CMakeFiles/maintest.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/maintest.dir/src/main.cpp.i"
+	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:/samico/134-231129-modem/workspace/modemv8/src/main.cpp > CMakeFiles/maintest.dir/src/main.cpp.i
 
-CMakeFiles/maintest.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/maintest.dir/main.cpp.s"
-	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:/samico/134-231129-modem/workspace/modemv8/main.cpp -o CMakeFiles/maintest.dir/main.cpp.s
+CMakeFiles/maintest.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/maintest.dir/src/main.cpp.s"
+	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:/samico/134-231129-modem/workspace/modemv8/src/main.cpp -o CMakeFiles/maintest.dir/src/main.cpp.s
 
-CMakeFiles/maintest.dir/teste.cpp.obj: CMakeFiles/maintest.dir/flags.make
-CMakeFiles/maintest.dir/teste.cpp.obj: CMakeFiles/maintest.dir/includes_CXX.rsp
-CMakeFiles/maintest.dir/teste.cpp.obj: D:/samico/134-231129-modem/workspace/modemv8/teste.cpp
-CMakeFiles/maintest.dir/teste.cpp.obj: CMakeFiles/maintest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:/samico/134-231129-modem/workspace/modemv8/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/maintest.dir/teste.cpp.obj"
-	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/maintest.dir/teste.cpp.obj -MF CMakeFiles/maintest.dir/teste.cpp.obj.d -o CMakeFiles/maintest.dir/teste.cpp.obj -c D:/samico/134-231129-modem/workspace/modemv8/teste.cpp
+CMakeFiles/maintest.dir/src/teste.cpp.obj: CMakeFiles/maintest.dir/flags.make
+CMakeFiles/maintest.dir/src/teste.cpp.obj: CMakeFiles/maintest.dir/includes_CXX.rsp
+CMakeFiles/maintest.dir/src/teste.cpp.obj: D:/samico/134-231129-modem/workspace/modemv8/src/teste.cpp
+CMakeFiles/maintest.dir/src/teste.cpp.obj: CMakeFiles/maintest.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:/samico/134-231129-modem/workspace/modemv8/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/maintest.dir/src/teste.cpp.obj"
+	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/maintest.dir/src/teste.cpp.obj -MF CMakeFiles/maintest.dir/src/teste.cpp.obj.d -o CMakeFiles/maintest.dir/src/teste.cpp.obj -c D:/samico/134-231129-modem/workspace/modemv8/src/teste.cpp
 
-CMakeFiles/maintest.dir/teste.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/maintest.dir/teste.cpp.i"
-	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:/samico/134-231129-modem/workspace/modemv8/teste.cpp > CMakeFiles/maintest.dir/teste.cpp.i
+CMakeFiles/maintest.dir/src/teste.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/maintest.dir/src/teste.cpp.i"
+	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:/samico/134-231129-modem/workspace/modemv8/src/teste.cpp > CMakeFiles/maintest.dir/src/teste.cpp.i
 
-CMakeFiles/maintest.dir/teste.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/maintest.dir/teste.cpp.s"
-	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:/samico/134-231129-modem/workspace/modemv8/teste.cpp -o CMakeFiles/maintest.dir/teste.cpp.s
+CMakeFiles/maintest.dir/src/teste.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/maintest.dir/src/teste.cpp.s"
+	D:/msys64/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:/samico/134-231129-modem/workspace/modemv8/src/teste.cpp -o CMakeFiles/maintest.dir/src/teste.cpp.s
 
 # Object files for target maintest
 maintest_OBJECTS = \
-"CMakeFiles/maintest.dir/main.cpp.obj" \
-"CMakeFiles/maintest.dir/teste.cpp.obj"
+"CMakeFiles/maintest.dir/src/main.cpp.obj" \
+"CMakeFiles/maintest.dir/src/teste.cpp.obj"
 
 # External object files for target maintest
 maintest_EXTERNAL_OBJECTS =
 
-maintest.exe: CMakeFiles/maintest.dir/main.cpp.obj
-maintest.exe: CMakeFiles/maintest.dir/teste.cpp.obj
+maintest.exe: CMakeFiles/maintest.dir/src/main.cpp.obj
+maintest.exe: CMakeFiles/maintest.dir/src/teste.cpp.obj
 maintest.exe: CMakeFiles/maintest.dir/build.make
 maintest.exe: CMakeFiles/maintest.dir/linkLibs.rsp
 maintest.exe: CMakeFiles/maintest.dir/objects1.rsp
