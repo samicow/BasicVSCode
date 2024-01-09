@@ -138,10 +138,10 @@ CMakeFiles/maintest.dir/main.cpp.obj: D:/samico/134-231129-modem/workspace/modem
   D:/msys64/mingw64/include/c++/12.2.0/bits/ostream.tcc \
   D:/msys64/mingw64/include/c++/12.2.0/istream \
   D:/msys64/mingw64/include/c++/12.2.0/bits/istream.tcc \
-  D:/samico/134-231129-modem/workspace/modemv8/teste.h
+  D:/samico/134-231129-modem/workspace/modemv8/include/teste.h
 
 CMakeFiles/maintest.dir/teste.cpp.obj: D:/samico/134-231129-modem/workspace/modemv8/teste.cpp \
-  D:/samico/134-231129-modem/workspace/modemv8/teste.h
+  D:/samico/134-231129-modem/workspace/modemv8/include/teste.h
 
 
 D:/samico/134-231129-modem/workspace/modemv8/main.cpp:
@@ -420,4 +420,4 @@ D:/msys64/mingw64/include/c++/12.2.0/istream:
 
 D:/msys64/mingw64/include/c++/12.2.0/bits/istream.tcc:
 
-D:/samico/134-231129-modem/workspace/modemv8/teste.h:
+D:/samico/134-231129-modem/workspace/modemv8/include/teste.h:

@@ -38,6 +38,16 @@ CMakeFiles/maintest.dir/main.cpp.obj: \
  D:/msys64/mingw64/include/c++/12.2.0/type_traits \
  D:/msys64/mingw64/include/c++/12.2.0/bits/nested_exception.h \
  D:/msys64/mingw64/include/c++/12.2.0/bits/char_traits.h \
+ D:/msys64/mingw64/include/c++/12.2.0/compare \
+ D:/msys64/mingw64/include/c++/12.2.0/concepts \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/stl_construct.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/stl_iterator_base_types.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/iterator_concepts.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/ptr_traits.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/ranges_cmp.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/stl_iterator_base_funcs.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/concept_check.h \
+ D:/msys64/mingw64/include/c++/12.2.0/debug/assertions.h \
  D:/msys64/mingw64/include/c++/12.2.0/cstdint \
  D:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include/stdint.h \
  D:/msys64/mingw64/include/stdint.h \
@@ -74,13 +84,8 @@ CMakeFiles/maintest.dir/main.cpp.obj: \
  D:/msys64/mingw64/include/c++/12.2.0/bits/cpp_type_traits.h \
  D:/msys64/mingw64/include/c++/12.2.0/bits/ostream_insert.h \
  D:/msys64/mingw64/include/c++/12.2.0/bits/cxxabi_forced.h \
- D:/msys64/mingw64/include/c++/12.2.0/bits/stl_iterator_base_types.h \
- D:/msys64/mingw64/include/c++/12.2.0/bits/stl_iterator_base_funcs.h \
- D:/msys64/mingw64/include/c++/12.2.0/bits/concept_check.h \
- D:/msys64/mingw64/include/c++/12.2.0/debug/assertions.h \
  D:/msys64/mingw64/include/c++/12.2.0/bits/stl_iterator.h \
  D:/msys64/mingw64/include/c++/12.2.0/ext/type_traits.h \
- D:/msys64/mingw64/include/c++/12.2.0/bits/ptr_traits.h \
  D:/msys64/mingw64/include/c++/12.2.0/bits/stl_function.h \
  D:/msys64/mingw64/include/c++/12.2.0/backward/binders.h \
  D:/msys64/mingw64/include/c++/12.2.0/ext/numeric_traits.h \
@@ -96,9 +101,11 @@ CMakeFiles/maintest.dir/main.cpp.obj: \
  D:/msys64/mingw64/include/c++/12.2.0/bits/basic_string.h \
  D:/msys64/mingw64/include/c++/12.2.0/ext/alloc_traits.h \
  D:/msys64/mingw64/include/c++/12.2.0/bits/alloc_traits.h \
- D:/msys64/mingw64/include/c++/12.2.0/bits/stl_construct.h \
  D:/msys64/mingw64/include/c++/12.2.0/string_view \
  D:/msys64/mingw64/include/c++/12.2.0/bits/functional_hash.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/ranges_base.h \
+ D:/msys64/mingw64/include/c++/12.2.0/bits/max_size_type.h \
+ D:/msys64/mingw64/include/c++/12.2.0/numbers \
  D:/msys64/mingw64/include/c++/12.2.0/bits/string_view.tcc \
  D:/msys64/mingw64/include/c++/12.2.0/ext/string_conversions.h \
  D:/msys64/mingw64/include/c++/12.2.0/cstdlib \
@@ -130,4 +137,4 @@ CMakeFiles/maintest.dir/main.cpp.obj: \
  D:/msys64/mingw64/include/c++/12.2.0/bits/ostream.tcc \
  D:/msys64/mingw64/include/c++/12.2.0/istream \
  D:/msys64/mingw64/include/c++/12.2.0/bits/istream.tcc \
- D:/samico/134-231129-modem/workspace/modemv8/teste.h
+ D:/samico/134-231129-modem/workspace/modemv8/include/teste.h
